@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.py[cod]
+*.class
+.vscode/
+.idea/
+*.log
+*.tmp
+*.img
+*.dcm
+*.nii.gz
+*.pt
+*.npz
